@@ -13,5 +13,6 @@ The following students are taking PSY 511.
 ## Kingsley Schroeder
 
 ## Alicia Vallorani
++ Tried to do a pull request, but there wasn't enough info to succeed.
 
 ## Sara Winter
